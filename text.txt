@@ -1,0 +1,5 @@
+-git init : khởi tạo git cho 1 project chỉ môt lần duy nhất 
+-git add : lữu trữ à sắp xeeos các file đã bị thay đổi hoặc xóa cho lần commit trc đó để chuẩn bị cho lần commit tiếp theo 
+-git add filename1 filename2: them 1 hoặc nhiều file
+- git add .: thêm toàn bộ tất cả file bị thay đổi
+- git commit: xac nhan va luu trữ các file đã thay đổi
